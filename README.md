@@ -1,3 +1,6 @@
-comando git push
+titulo
+titulo 2
+cmd git push
 cmd git pull
-cmd fit fetch
+cmd git diff
+cmd git fetch
